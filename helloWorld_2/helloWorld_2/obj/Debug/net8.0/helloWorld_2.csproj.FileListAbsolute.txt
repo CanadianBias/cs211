@@ -1,0 +1,14 @@
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\bin\Debug\net8.0\helloWorld_2.exe
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\bin\Debug\net8.0\helloWorld_2.deps.json
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\bin\Debug\net8.0\helloWorld_2.runtimeconfig.json
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\bin\Debug\net8.0\helloWorld_2.dll
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\bin\Debug\net8.0\helloWorld_2.pdb
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.AssemblyInfoInputs.cache
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.AssemblyInfo.cs
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.csproj.CoreCompileInputs.cache
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.dll
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\refint\helloWorld_2.dll
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.pdb
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\helloWorld_2.genruntimeconfig.cache
+C:\Users\edromarsky\Documents\COOL\helloWorld_2\helloWorld_2\obj\Debug\net8.0\ref\helloWorld_2.dll
