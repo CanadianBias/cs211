@@ -1,0 +1,15 @@
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\bin\Debug\net8.0\geometryCalc.exe
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\bin\Debug\net8.0\geometryCalc.deps.json
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\bin\Debug\net8.0\geometryCalc.runtimeconfig.json
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\bin\Debug\net8.0\geometryCalc.dll
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\bin\Debug\net8.0\geometryCalc.pdb
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.AssemblyInfoInputs.cache
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.AssemblyInfo.cs
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.sourcelink.json
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.dll
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\refint\geometryCalc.dll
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.pdb
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\geometryCalc.genruntimeconfig.cache
+C:\Users\edromarsky\Documents\COOL\geometryCalc\geometryCalc\obj\Debug\net8.0\ref\geometryCalc.dll
