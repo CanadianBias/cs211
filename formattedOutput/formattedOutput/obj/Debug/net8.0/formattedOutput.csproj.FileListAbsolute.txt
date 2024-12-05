@@ -1,0 +1,15 @@
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\bin\Debug\net8.0\formattedOutput.exe
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\bin\Debug\net8.0\formattedOutput.deps.json
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\bin\Debug\net8.0\formattedOutput.runtimeconfig.json
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\bin\Debug\net8.0\formattedOutput.dll
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\bin\Debug\net8.0\formattedOutput.pdb
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.AssemblyInfoInputs.cache
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.AssemblyInfo.cs
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.csproj.CoreCompileInputs.cache
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.sourcelink.json
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.dll
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\refint\formattedOutput.dll
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.pdb
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\formattedOutput.genruntimeconfig.cache
+C:\Users\edromarsky\Documents\COOL\formattedOutput\formattedOutput\obj\Debug\net8.0\ref\formattedOutput.dll
